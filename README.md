@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RabbitHash5390
+- 👋 Hi, I’m @RabbitHash5390 this is second copy
 - 👀 I’m interested in ...web development and coding in Python
 - 🌱 I’m currently learning ...to code
 - 💞️ I’m looking to collaborate on ...any basic coding project, I have ideas for more complicated programs to write.
